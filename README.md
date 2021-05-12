@@ -1,6 +1,6 @@
 # HTML Statistics
 
-Simple html parser and calculate words and save persistent storage.
+Simple html parser and calculate words and save in persistent storage.
 
 
 
